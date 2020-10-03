@@ -27,13 +27,16 @@ The XML file as been generated using the Java FileIO project. It contains all th
  # Images
  
    ### Cities From World DB
-   ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SeelectCity_FromWorldDatabase.PNG)
+   ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SelectCity_FromWorldDatabase.PNG)
  
    ### Generated XML Before formatting
    ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG)
    
    ### XML Formatter
    ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
+   
+   ### XML Formatter
+   ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
    
    ### Cities From World DB
    ![Final Result](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_WithXSL.PNG)
