@@ -25,14 +25,15 @@ The XML file as been generated using the Java FileIO project. It contains all th
    * Some elements such as XSL template, value-of, sort, choose
    
  # Images
+ 
+   ### Cities From World DB
+   ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SeelectCity_FromWorldDatabase.PNG)
+ 
    ### Generated XML Before formatting
    ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG)
    
    ### XML Formatter
    ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
-   
-   ### Cities From World DB
-   ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SeelectCity_FromWorldDatabase.PNG)
    
    ### Cities From World DB
    ![Final Result](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_WithXSL.PNG)
