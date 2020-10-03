@@ -37,4 +37,7 @@ The XML file as been generated using the Java FileIO project. It contains all th
    ### Cities From World DB
    ![Final Result](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_WithXSL.PNG)
    
+ # Conclusion
+ I am happy to have discovered this language. Knowing other programming languages helped me to understand the basics of this one. I had always been intrigued by XML. When I got acquainted with XSL I was even more lost. Finally I was happy to have tried to understand this language and to have done a first project even though it was basic.
+   
    
