@@ -35,7 +35,11 @@ The XML file as been generated using the Java FileIO project. It contains all th
    ### XML Formatter
    ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
    
-   ### XML Formatter
+
+   ### XML After formatting
+   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG)
+   
+   ### XSL Code
    ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
    
    ### Cities From World DB
