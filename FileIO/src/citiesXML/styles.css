@@ -1,0 +1,9 @@
+h2, th{
+    text-align: center;
+}
+td, th{
+    padding:5px;
+}
+table{
+    margin: 0 auto;
+}
