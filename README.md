@@ -1,18 +1,18 @@
 # Introduction
 
-CitiesXML is a small demo using XSL to render XML.
+CitiesXML is a small demo using XML and XSL.
 The CitiesXML_Copy file is a copy of the original one located [HERE](https://github.com/camillebalima/XMLDemo/tree/main/FileIO/src/citiesXML/).
 The XML file as been generated using the Java FileIO project. It contains all the Cities, Population and Country code from the built in world database from MySQL.
 
 
 # What I learned about XSL
 
-* XSLT pulls data from XML and displays according to the way I want to output it. (HTL, PDF, Another XML)
+* XSLT pulls data from XML and displays according to the way I want to output it (HTLM, PDF, Another XML...)
 
 * To estaclish a communitaction between the two, I need to do the following:
-   * Add this line to the XML file in orther to refer the appropriate XSL file.
+   * Add this line to the XML file in order to refer the appropriate XSL file.
    ```<?xml-stylesheet href="cities.xsl" type="text/xsl"?>```
-   * Add the followings to the XSL file in other to get the data from the XML file
+   * Add the followings to the XSL file in order to get the data from the XML file
    ```
    <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">   
    <xsl:template match="/Cities">
