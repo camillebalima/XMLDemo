@@ -9,7 +9,7 @@ The XML file as been generated using the Java FileIO project. It contains all th
 
 * XSLT pulls data from XML and displays according to the way I want to output it (HTLM, PDF, Another XML...)
 
-* To estaclish a communitaction between the two, I need to do the following:
+* To establish a communitaction between the two, I need to do the following:
    * Add this line to the XML file in order to refer the appropriate XSL file.
    ```<?xml-stylesheet href="cities.xsl" type="text/xsl"?>```
    * Add the followings to the XSL file in order to get the data from the XML file
