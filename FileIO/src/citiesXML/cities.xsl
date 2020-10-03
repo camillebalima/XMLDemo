@@ -15,9 +15,9 @@
   <h2>Display Cities</h2>
   <table border="1">
     <tr bgcolor="#9acd32">
-      <th>Country Code <button>Sort</button></th>
-      <th>City Name <button>Sort</button></th>
-      <th>Population N. <button>Sort</button></th>
+      <th>Country Code</th>
+      <th>City Name</th>
+      <th>Population N.</th>
     </tr>
     <xsl:for-each select="City">
     <tr>
