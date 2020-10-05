@@ -1,51 +1,46 @@
-# Introduction
-
-CitiesXML is a small demo using XML and XSL.
-The CitiesXML_Copy file is a copy of the original one located [HERE](https://github.com/camillebalima/XMLDemo/tree/main/FileIO/src/citiesXML/).
-The XML file as been generated using the Java FileIO project. It contains all the Cities, Population and Country code from the built in world database from MySQL.
+#INTRODUCTION
 
 
-# What I learned about XSL
 
-* XSLT pulls data from XML and displays according to the way I want to output it (HTLM, PDF, Another XML...)
+#REFERENCES
 
-* To establish a communitaction between the two, I need to do the following:
-   * Add this line to the XML file in order to refer the appropriate XSL file.
-   ```<?xml-stylesheet href="cities.xsl" type="text/xsl"?>```
-   * Add the followings to the XSL file in order to get the data from the XML file
-   ```
-   <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">   
-   <xsl:template match="/Cities">
-   //Add the code here
-   </xsl:template>
-   </xsl:stylesheet>
-   ```
-   
-   * XML must be coded hierarchically. It is not possible to access child without accessing the parent element before.
-   * Some elements such as XSL template, value-of, sort, choose
-   
- # Images
- 
-   ### Cities From World DB
-   ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SelectCity_FromWorldDatabase.PNG)
- 
-   ### Generated XML Before formatting
-   ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG)
-   
-   ### XML Formatter
-   ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
-   
+##XML/ XSLT
 
-   ### XML After formatting
-   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG)
-   
-   ### XSL Code
-   ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
-   
-   ### Cities From World DB
-   ![Final Result](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_WithXSL.PNG)
-   
- # Conclusion
- I am happy to have discovered this language. Knowing other programming languages helped me to understand the basics of this one. I had always been intrigued by XML. When I got acquainted with XSL I was even more lost. Finally I was happy to have tried to understand this language and to have done a first project even though it was basic.
-   
-   
+https://youtu.be/yZQ91UpuxVQ
+
+https://youtu.be/Rn1bvTYYsCY
+
+https://www.w3schools.com/xml/xsl_intro.asp
+
+https://www.commentcamarche.net/contents/1337-mise-en-page-de-xml-avec-xsl
+
+##VBA Macros
+
+https://www.youtube.com/watch?v=G05TrN7nt6k
+
+https://www.tutorialspoint.com/vba/vba_excel_macros.htm
+
+https://www.freevbcode.com/ShowCode.asp?ID=1694
+
+https://docs.microsoft.com/en-us/office/vba/api/excel.workbook.saveasxmldata
+
+https://www.youtube.com/watch?v=pHFucY4VMT4
+
+https://www.youtube.com/watch?v=axjBEOAlaq4
+
+https://www.youtube.com/watch?v=uDESRpPlOtk
+
+https://docs.microsoft.com/en-us/office/vba/api/excel.xmlmap.isexportable
+
+https://www.excelforum.com/excel-programming-vba-macros/629915-fix-button-position.html
+
+http://trypots.net/srv/vb-xmldoc.html
+
+https://spreadsheeto.com/xml/
+
+https://www.myonlinetraininghub.com/debugging-vba-code
+
+
+
+
+
