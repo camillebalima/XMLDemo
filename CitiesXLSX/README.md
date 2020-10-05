@@ -13,8 +13,8 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
    * VBA Macros save time as they automate repetitive tasks.
 
    * First I have to show the developer option with the following instruction (Only the first time)
-   ** On the File tab, go to Options > Customize Ribbon.
-   ** Under Customize the Ribbon and under Main Tabs, select the Developer check box.
+    ** On the File tab, go to Options > Customize Ribbon.
+    ** Under Customize the Ribbon and under Main Tabs, select the Developer check box.
 
    
    * It is possible to assign a macro to a button in excel
