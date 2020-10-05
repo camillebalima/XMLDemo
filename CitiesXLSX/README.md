@@ -1,9 +1,9 @@
 # Introduction
 
-CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrates the following:
-* Import an XML file into Exel
+CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demonstrates the following:
+* Import an XML file into Excel
 * Format the table
-* Export execl spreadsheet to a generated XML file.
+* Export excel spreadsheet to a generated XML file.
 
 
  # What I learned about Macros
@@ -12,7 +12,7 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
    * The macro will play it back as many times as you want.
    * VBA Macros save time as they automate repetitive tasks.
 
-   * First I have to show the developer option with the following instruction (Only the first time)
+   * First, I have to show the developer option with the following instruction (Only the first time)
    * On the File tab, go to Options > Customize Ribbon.
    * Under Customize the Ribbon and under Main Tabs, select the Developer check box.
 
@@ -196,4 +196,4 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
 
    
  # Conclusion
- This is my first experience with VBA Macros. It was more diffictult for me to do this project but I am happy with what I have been able to do for a first projectL. I understand how important it is and I actually love the concept.
+ This is my first experience with VBA Macros. It was more difficult for me to do this project, but I am happy with what I have been able to do for a first project. I understand how important it is and I actually love the concept.
