@@ -3,20 +3,14 @@
 CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros.
 
 
-# What I learned about Macros
+ # What I learned about Macros
 
-* XSLT pulls data from XML and displays according to the way I want to output it (HTLM, PDF, Another XML...)
+   * XSLT pulls data from XML and displays according to the way I want to output it (HTLM, PDF, Another XML...)
 
-* First I have to show the developer option with the following instruction (Only the first time)
-  *** On the File tab, go to Options > Customize Ribbon.
-  *** Under Customize the Ribbon and under Main Tabs, select the Developer check box.
-   ```
-   <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">   
-   <xsl:template match="/Cities">
-   //Add the code here
-   </xsl:template>
-   </xsl:stylesheet>
-   ```
+   * First I have to show the developer option with the following instruction (Only the first time)
+   ** On the File tab, go to Options > Customize Ribbon.
+   ** Under Customize the Ribbon and under Main Tabs, select the Developer check box.
+
    
    * XML must be coded hierarchically. It is not possible to access child without accessing the parent element before.
    * Some elements such as XSL template, value-of, sort, choose
