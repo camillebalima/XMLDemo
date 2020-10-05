@@ -34,7 +34,7 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
    ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
    
    ### VBA CODE
-     ´´´ 
+    
     Sub Import_XML()
     Dim xml_File_Path As String
     Dim wb As Workbook
@@ -50,7 +50,7 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
     '//Close New Workbook & Enable Alerts
      wb.Close False
      Application.DisplayAlerts = True
-     End Sub´´´
+     End Sub
    
  # Conclusion
  This is my first experience with VBA Macros and excel. It was more diffictult for me to do this project but I am happy with what I have been able to do for a first projectL. I understand how important it is and I actually love the concept.
