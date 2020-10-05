@@ -23,23 +23,17 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
    
  # Images
  
-   ### Cities From World DB
+   ### Before and After XML Import
    ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SelectCity_FromWorldDatabase.PNG) ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG)
  
-   ### Generated XML Before formatting
-   ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG)
-   
-   ### XML Formatter
-   ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
+   ### Before and after Formatting
+   ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG) ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
    
 
-   ### XML After formatting
-   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG)
+   ### Before and After Exporting
+   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
    
-   ### XSL Code
-   ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
-   
-   ### Cities From World DB
+   ### VBA CODE
    ![Final Result](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_WithXSL.PNG)
    
  # Conclusion
