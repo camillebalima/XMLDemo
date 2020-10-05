@@ -51,6 +51,8 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
      wb.Close False
      Application.DisplayAlerts = True
      End Sub
+    
+     ---
      
      Sub FormatView()
      '
@@ -88,7 +90,8 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
     Range("A1").Select
     End Sub
     
-    
+    ---
+
     Sub Export_XML()
     Dim s As String
     Dim fPath As String
@@ -184,6 +187,9 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
     
     'Returns a cell range
     'Used in a loop
+    
+    ---
+    
     Function GetCellValue(colRange As String, index As String) As String
         GetCellValue = Range(colRange & index).Value
     End Function
