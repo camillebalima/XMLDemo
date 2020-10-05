@@ -1,10 +1,10 @@
-#INTRODUCTION
+# INTRODUCTION
 
 
 
-#REFERENCES
+# REFERENCES
 
-##XML/ XSLT
+## XML/ XSLT
 
 https://youtu.be/yZQ91UpuxVQ
 
@@ -14,7 +14,7 @@ https://www.w3schools.com/xml/xsl_intro.asp
 
 https://www.commentcamarche.net/contents/1337-mise-en-page-de-xml-avec-xsl
 
-##VBA Macros
+## VBA Macros
 
 https://www.youtube.com/watch?v=G05TrN7nt6k
 
