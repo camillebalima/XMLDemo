@@ -33,6 +33,8 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demonstrat
    ### Before and After Exporting
    ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/BeforeExport.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/AfterExport_Message.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/AfterExport.PNG)
    
+   ### XML File 
+   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/DisplayXML.PNG)
    ### VBA CODE
     
     Sub Import_XML()
