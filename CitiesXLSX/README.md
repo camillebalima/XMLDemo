@@ -34,24 +34,23 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
    ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
    
    ### VBA CODE
-   ´´´
+     ´´´ 
     Sub Import_XML()
     Dim xml_File_Path As String
     Dim wb As Workbook
     
-    'Load XML Data into a New Workbook
+    '//Load XML Data into a New Workbook
     Application.DisplayAlerts = False
      xml_File_Path = "N:\POSTGRAD\PROJECTS\XSLT\XMLDemo\CitiesXML_Copy\cities.xml"
      Set wb = Workbooks.OpenXML(Filename:=xml_File_Path)
 
-    'Copy Content from New workbook to current active Worksheet
+    '//Copy Content from New workbook to current active Worksheet
      wb.Sheets(1).UsedRange.Copy ThisWorkbook.Sheets("Tabelle1").Range("A1")
      
-    'Close New Workbook & Enable Alerts
+    '//Close New Workbook & Enable Alerts
      wb.Close False
      Application.DisplayAlerts = True
-     End Sub
-   ´´´
+     End Sub´´´
    
  # Conclusion
  This is my first experience with VBA Macros and excel. It was more diffictult for me to do this project but I am happy with what I have been able to do for a first projectL. I understand how important it is and I actually love the concept.
