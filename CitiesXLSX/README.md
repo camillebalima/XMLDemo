@@ -1,9 +1,9 @@
 # Introduction
 
-CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrates the following:
-* Import an XML file into Exel
+CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demonstrates the following:
+* Import an XML file into Excel
 * Format the table
-* Export execl spreadsheet to a generated XML file.
+* Export excel spreadsheet to a generated XML file.
 
 
  # What I learned about Macros
@@ -12,9 +12,9 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
    * The macro will play it back as many times as you want.
    * VBA Macros save time as they automate repetitive tasks.
 
-   * First I have to show the developer option with the following instruction (Only the first time)
-   ** On the File tab, go to Options > Customize Ribbon.
-   ** Under Customize the Ribbon and under Main Tabs, select the Developer check box.
+   * First, I have to show the developer option with the following instruction (Only the first time)
+   * On the File tab, go to Options > Customize Ribbon.
+   * Under Customize the Ribbon and under Main Tabs, select the Developer check box.
 
    
    * It is possible to assign a macro to a button in excel
@@ -24,14 +24,14 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
  # Images
  
    ### Before and After XML Import
-   ![Cities World DB](https://github.com/camillebalima/XMLDemo/blob/main/img/SelectCity_FromWorldDatabase.PNG) ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG)
+   ![Before Import](https://github.com/camillebalima/XMLDemo/blob/main/img/BeforeImport.PNG) ![After Import](https://github.com/camillebalima/XMLDemo/blob/main/img/AfterImport.PNG)
  
    ### Before and after Formatting
-   ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_BeforeFormating.PNG) ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_Formatter.PNG)
+   ![XML Before formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/BeforeFormatPNG.PNG) ![XML Formatter](https://github.com/camillebalima/XMLDemo/blob/main/img/AfterFormat.PNG)
    
 
    ### Before and After Exporting
-   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/XML_AfterFormatting.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/XSL_Code.PNG)
+   ![XML After formatting](https://github.com/camillebalima/XMLDemo/blob/main/img/BeforeExport.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/AfterExport_Message.PNG) ![XSL Code](https://github.com/camillebalima/XMLDemo/blob/main/img/AfterExport.PNG)
    
    ### VBA CODE
     
@@ -196,4 +196,4 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrate
 
    
  # Conclusion
- This is my first experience with VBA Macros. It was more diffictult for me to do this project but I am happy with what I have been able to do for a first projectL. I understand how important it is and I actually love the concept.
+ This is my first experience with VBA Macros. It was more difficult for me to do this project, but I am happy with what I have been able to do for a first project. I understand how important it is and I actually love the concept.
