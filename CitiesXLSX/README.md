@@ -1,19 +1,25 @@
 # Introduction
 
-CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros.
+CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros. It demostrates the following:
+* Import an XML file into Exel
+* Format the table
+* Export execl spreadsheet to a generated XML file.
 
 
  # What I learned about Macros
 
-   * XSLT pulls data from XML and displays according to the way I want to output it (HTLM, PDF, Another XML...)
+   * EXCEL MACRO is a record and playback tool that simply records your Excel steps 
+   * The macro will play it back as many times as you want.
+   * VBA Macros save time as they automate repetitive tasks.
 
    * First I have to show the developer option with the following instruction (Only the first time)
    ** On the File tab, go to Options > Customize Ribbon.
    ** Under Customize the Ribbon and under Main Tabs, select the Developer check box.
 
    
-   * XML must be coded hierarchically. It is not possible to access child without accessing the parent element before.
-   * Some elements such as XSL template, value-of, sort, choose
+   * It is possible to assign a macro to a button in excel
+   * It is possible to record a macro and do some tasks before ending it
+   * It is also possible to write all the code in Visual Basics
    
  # Images
  
@@ -37,4 +43,4 @@ CitiesXLSX is a small demo using Excel spreadsheet and VBA Macros.
    ![Final Result](https://github.com/camillebalima/XMLDemo/blob/main/img/CitiesXML_WithXSL.PNG)
    
  # Conclusion
- I am happy to have discovered this language. Knowing other programming languages helped me to understand the basics of this one. I had always been intrigued by XML. When I got acquainted with XSL I was even more lost. Finally I was happy to have tried to understand this language and to have done a first project even though it was basic.
+ This is my first experience with VBA Macros and excel. It was more diffictult for me to do this project but I am happy with what I have been able to do for a first projectL. I understand how important it is and I actually love the concept.
