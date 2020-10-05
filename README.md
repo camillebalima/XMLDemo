@@ -1,5 +1,5 @@
-* [XML Demo](https://github.com/camillebalima/XMLDemo/tree/main/FileIO/src/citiesXML/)
-* VBA Macros Demo
+* [XML Demo](https://github.com/camillebalima/XMLDemo/tree/main/CitiesXML_Copy)
+* [VBA Macros Demo](https://github.com/camillebalima/XMLDemo/tree/main/CitiesXLSX)
 
 # REFERENCES
 
